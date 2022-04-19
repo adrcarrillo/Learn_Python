@@ -1,0 +1,7 @@
+#Rename to .vimrc and place in the home folder.
+
+set number
+set vb
+set noerrorbells
+set ruler
+syntax on
